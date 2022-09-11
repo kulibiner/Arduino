@@ -30,6 +30,7 @@ const char index_html[] PROGMEM = R"rawliteral(
 )rawliteral";
 
 // Jembatan antara MCU dengan Web
+// Menampilkan variable ke Web
 String processor(const String& var) {
     if(var == "ssid") {
         return ssid;
