@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>D3</td>
-    <td>GPIO</td>
+    <td>GPIO0</td>
     <td>Pullep UP</td>
     <td>OK</td>
     <td>Connected to FLASH, BOOT fail if pulled low</td>
