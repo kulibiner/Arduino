@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td>D8</td>
-    <td>GPIO13</td>
+    <td>GPIO15</td>
     <td>Pulled LOW</td>
     <td>OK</td>
     <td>CS (SPI)</td>
