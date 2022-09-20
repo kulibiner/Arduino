@@ -1,7 +1,7 @@
 /*
 Sketch by kulibiner 
 
-Pin Connection
+Basic Pin Connection
 -------------------
 | Arduino | HC-05 |
 |    2    |  TX   |
@@ -18,6 +18,7 @@ Malang, September 2022
 char incomingChar;
 String message = "";
 
+// Relay masuk pin 13
 int relay = 13;
 
 // Inisiasi Bluetooth
