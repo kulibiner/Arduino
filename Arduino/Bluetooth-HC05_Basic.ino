@@ -1,6 +1,3 @@
-// Sketch by kulibiner a.k.a Muhammad Daffa
-// Pi
-// Malang, September 2022
 /*
 Sketch by kulibiner 
 
