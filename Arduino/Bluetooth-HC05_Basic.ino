@@ -1,5 +1,20 @@
 // Sketch by kulibiner a.k.a Muhammad Daffa
+// Pi
 // Malang, September 2022
+/*
+Sketch by kulibiner 
+
+Pin Connection
+-------------------
+| Arduino | HC-05 |
+|    2    |  TX   |
+|    3    |  RX   |
+|   VCC   |  VCC  |
+|   GND   |  GND  |
+-------------------
+
+Malang, September 2022
+*/
 
 #include <SoftwareSerial.h>
 
