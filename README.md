@@ -1,2 +1,2 @@
 # MCU CUPUU
-Ini tempat saya menyimpan proyak yang sudah saya pelajari sebelumnya.
+Ini tempat saya menyimpan proyek yang sudah saya pelajari sebelumnya.
